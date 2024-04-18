@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/2211cs010593/react-2211cs010593.git/static/css/main.815dcb90.css",
-    "main.js": "/2211cs010593/react-2211cs010593.git/static/js/main.44571679.js",
-    "static/js/453.95bf316a.chunk.js": "/2211cs010593/react-2211cs010593.git/static/js/453.95bf316a.chunk.js",
-    "index.html": "/2211cs010593/react-2211cs010593.git/index.html",
-    "main.815dcb90.css.map": "/2211cs010593/react-2211cs010593.git/static/css/main.815dcb90.css.map",
-    "main.44571679.js.map": "/2211cs010593/react-2211cs010593.git/static/js/main.44571679.js.map",
-    "453.95bf316a.chunk.js.map": "/2211cs010593/react-2211cs010593.git/static/js/453.95bf316a.chunk.js.map"
+    "main.css": "/react-2211cs010593/static/css/main.815dcb90.css",
+    "main.js": "/react-2211cs010593/static/js/main.7502f2c4.js",
+    "static/js/453.95bf316a.chunk.js": "/react-2211cs010593/static/js/453.95bf316a.chunk.js",
+    "index.html": "/react-2211cs010593/index.html",
+    "main.815dcb90.css.map": "/react-2211cs010593/static/css/main.815dcb90.css.map",
+    "main.7502f2c4.js.map": "/react-2211cs010593/static/js/main.7502f2c4.js.map",
+    "453.95bf316a.chunk.js.map": "/react-2211cs010593/static/js/453.95bf316a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.815dcb90.css",
-    "static/js/main.44571679.js"
+    "static/js/main.7502f2c4.js"
   ]
 }
