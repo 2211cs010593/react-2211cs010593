@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/week7/static/css/main.b691bd92.css",
-    "main.js": "/week7/static/js/main.b6f9e6a3.js",
-    "static/js/453.95bf316a.chunk.js": "/week7/static/js/453.95bf316a.chunk.js",
-    "index.html": "/week7/index.html",
-    "main.b691bd92.css.map": "/week7/static/css/main.b691bd92.css.map",
-    "main.b6f9e6a3.js.map": "/week7/static/js/main.b6f9e6a3.js.map",
-    "453.95bf316a.chunk.js.map": "/week7/static/js/453.95bf316a.chunk.js.map"
+    "main.css": "/2211cs010593/react-2211cs010593.git/static/css/main.815dcb90.css",
+    "main.js": "/2211cs010593/react-2211cs010593.git/static/js/main.44571679.js",
+    "static/js/453.95bf316a.chunk.js": "/2211cs010593/react-2211cs010593.git/static/js/453.95bf316a.chunk.js",
+    "index.html": "/2211cs010593/react-2211cs010593.git/index.html",
+    "main.815dcb90.css.map": "/2211cs010593/react-2211cs010593.git/static/css/main.815dcb90.css.map",
+    "main.44571679.js.map": "/2211cs010593/react-2211cs010593.git/static/js/main.44571679.js.map",
+    "453.95bf316a.chunk.js.map": "/2211cs010593/react-2211cs010593.git/static/js/453.95bf316a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b691bd92.css",
-    "static/js/main.b6f9e6a3.js"
+    "static/css/main.815dcb90.css",
+    "static/js/main.44571679.js"
   ]
 }
